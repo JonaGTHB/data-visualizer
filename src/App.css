@@ -6,6 +6,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh; /* Adjust as needed */
+  font-family: "Arial", sans-serif
 }
 
 .textarea-container {
